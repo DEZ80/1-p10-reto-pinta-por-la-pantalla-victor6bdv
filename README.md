@@ -20,7 +20,7 @@ PC: 4000
 ## Actividad 3: Columna de 5 píxeles consecutivos
 Los píxeles deben formar un dibujito en vertical, en la misma columna.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 00 C0 3E 08 32 00 C8 3E 80 32 00 D0 3E 88 32 00 D8 3E 08 32 00 E0 3E 80 32 00 E8 18 FE
 ```
 PC: 4000
 
